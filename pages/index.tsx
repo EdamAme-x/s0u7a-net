@@ -16,6 +16,7 @@ export default function Home() {
       <div className="z-10 max-w-5xl w-full flex flex-col items-center justify-between font-mono text-sm lg:flex">
         <h1>Welcome to s0u7a.net!</h1>
         <h2>s0u7a@s0u7a.net &gt; ~/s0u7a.net $ bun dev</h2>
+        <a href="https://ame-x.net/" target="_blank">ame-x.net</a>
       </div>
     </main>
   );
